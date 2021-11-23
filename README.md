@@ -6,4 +6,5 @@ Meu portfolio online.
 
 ##### Links 
 
-- [ ] : Criar paginas internas (HOME, CONTATO, SKILLS, SOBRE MIM)
+- [ ] : Criar paginas internas (HOME, CONTATO, SKILLS, SOBRE MIM).
+- [ ] : Colocar icones nos links.
