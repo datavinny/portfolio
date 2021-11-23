@@ -1,26 +1,23 @@
         body{
+            color: goldenrod;
             background-color: black;
-            color: orange;
             text-align: center; 
         }
 
         #foto-perfil{
-            border-radius: 100%;
-        }
-        
-        .index{
-            background-color: rgb(214, 141, 5);
-            padding: 12px 13px;
-            border-radius: 0%;
-            font-family: Epilogue, Verdana, sans-serif;
+            border-radius: 100%;            
         }
 
-        h1{
-            color:yellow;
+        ul{
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
         }
 
-        h2{
-            color: yellow; 
+        h1, h2{
+            color:gold;
+            font-size: 45px;
         }
 
         a:link {
@@ -28,6 +25,35 @@
         }
            
         a:hover {
-            color: yellow;
-            text-decoration: underline;
+            text-decoration: none;
         }
+
+        li {
+            float: left;
+        }
+
+        li a {
+            display: block;
+            text-align: center;
+            background-color:gold;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-weight: 700;
+            color: white;
+          }
+
+        a{
+            color:goldenrod;
+        }
+
+        .active {
+            background-color: orange;
+         }
+
+         ul {
+            position: fixed;
+            top: 0;
+            width: 100%;
+          }
+
+
