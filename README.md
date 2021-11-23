@@ -2,7 +2,7 @@
 
 Meu portfolio online.
 
-## Metas :hourglass_flowing_sand:
+## Progresso :hourglass_flowing_sand:
 
 ##### Links 
 
