@@ -1,8 +1,7 @@
         .barra ul{
             list-style-type: none;
             color: goldenrod;
-            font-size: 25px;
-            font-weight: 400;
+            font-size: 30px;
             background-color: blue;
             margin-left: -10px;
             margin-right: 10px;
@@ -11,9 +10,8 @@
             overflow: hidden;
         }
         .barra li a {
-            display: inline-block;
+            display: inline;
             padding: 20px 13px;
-            font-weight: 100;
         }
         .barra li {
             float: left;
