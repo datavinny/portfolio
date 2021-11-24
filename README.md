@@ -6,5 +6,5 @@ https://datavinny.github.io/
 
 ##### Links 
 
-- [ ] : Criar paginas internas (HOME, CONTATO, SKILLS, SOBRE MIM).
-- [ ] : Colocar icones nos links.
+- [X] : Criar paginas internas (HOME, CONTATO, SKILLS, SOBRE).
+- [X] : Colocar icones nos links.
