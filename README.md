@@ -1,10 +1,4 @@
-# datavinny.github.io
+# Meu Portfolio
 
-Meu portfolio online.
+https://datavinny.github.io/
 
-## Progresso :hourglass_flowing_sand:
-
-##### Links 
-
-- [ ] : Criar paginas internas (HOME, CONTATO, SKILLS, SOBRE MIM).
-- [ ] : Colocar icones nos links.
