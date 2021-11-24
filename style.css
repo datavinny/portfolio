@@ -10,7 +10,7 @@
             overflow: hidden;
         }
         .barra li a {
-            display: inline;
+            display: flex;
             padding: 20px 13px;
         }
         .barra li {
