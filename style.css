@@ -1,13 +1,14 @@
         .barra ul{
             list-style-type: none;
             color: goldenrod;
-            font-size: 30px;
-            background-color: blue;
-            margin-left: -10px;
-            margin-right: 10px;
-            margin: -10px;
-            border: 0px;
-            overflow: hidden;
+            font-size: 20px;
+            background-color: rgb(4, 4, 170);
+            display: block;
+            top: -20px;
+            left: 0px;
+            right: 0px;
+            position: fixed;
+            height:60px ;
         }
         .barra li a {
             display: flex;
@@ -29,9 +30,9 @@
             background-color: gold;
          }
          .foto img{
-             background-color: goldenrod;
+             background-color: green;
              border-radius: 100%;
-             width: 420px;
+             width: 300px;
              float: left;
              padding: 1px;
         }
