@@ -1,65 +1,56 @@
-        .barra ul{
-            list-style-type: none;
-            color: goldenrod;
-            font-size: 20px;
-            background-color: rgb(4, 4, 170);
-            display: block;
-            top: -20px;
-            left: 0px;
-            right: 0px;
-            position: fixed;
-            height:60px ;
-        }
-        .barra li a {
-            display: flex;
-            padding: 20px 13px;
-        }
-        .barra li {
-            float: left;
-        }
-        a:link {
-            text-decoration: none;
-        }      
-        a:hover {
-            text-decoration: none;
-        }
-        a{
-            color:goldenrod;
-        }
-        .active {
-            background-color: gold;
-         }
-         .foto img{
-             background-color: green;
-             border-radius: 100%;
-             width: 300px;
-             float: left;
-             padding: 1px;
-        }
-        .meunome{
-            text-align: center;
-            font-size: 30px;
-            font-style: italic;
-            color: goldenrod;
-        }
-        .sobre{
-            font-size: 25px;
-            text-align: justify;
-            color: goldenrod;
-        }
-        .skills{
-            text-align: center;
-            font-size: 25px;
-            color: goldenrod;
-        }
-        .skills ul {
-            top: 30;
-            list-style-type: none;
-         }
-         .contato{
-            color: goldenrod;
-            font-size: 25px;
-            text-align: center;
-         }
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#header img{
+    width: 100px;
+}
+
+#header {
+    border-bottom: 1px solid red;
+    align-items: baseline;
+}
+
+.nav-bar a {
+    text-decoration: none;
+    cursor: pointer;
+    padding: 0 10px;
+}
+
+.nav-bar a:hover {
+    color: red;
+}
+
+#minha-foto {
+    /* background-color: red; */
+    width: 300px;
+    order: -1;
+}
+
+#sobre {
+    font-size: 20px;
+    text-align: justify;
+}
+
+#skills {
+    text-align: center;
+    font-size: 20px;
+}
+
+#contato {
+    font-size: 20px;
+    text-align: center;
+}
 
 
