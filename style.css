@@ -41,6 +41,7 @@
 #sobre {
     font-size: 20px;
     text-align: justify;
+    flex: 1;
 }
 
 #skills {
@@ -50,7 +51,11 @@
 
 #contato {
     font-size: 20px;
-    text-align: center;
+    flex-direction: column;
+}
+
+.icons {
+
 }
 
 
