@@ -2,8 +2,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: black;
 }
 
 body {
@@ -41,8 +41,10 @@ p {
 }
 /* Header */
 .header {
-  border-bottom: 1px solid red;
+  border-bottom: 1px solid grey;
   align-items: baseline;
+  width: 100%;
+  padding: 10px;
 }
 
 .header img{
@@ -56,7 +58,7 @@ p {
 }
 
 .nav-header a:hover {
-  color: red;
+  color: grey;
 }
 
 /* Aside */
@@ -98,6 +100,7 @@ aside {
 
 /* footer */
 .footer {
+  border-top: 1px solid grey;
   text-align: center;
   position: fixed;
   bottom: 0;
